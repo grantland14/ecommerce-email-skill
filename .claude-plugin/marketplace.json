@@ -7,8 +7,8 @@
     {
       "name": "ecommerce-skills",
       "source": ".",
-      "description": "Claude skills for eCommerce founders. Brand guide, email marketing, copywriting, paid ads, CFO finance, VC evaluation, popups, PDP optimization, social content — built for DTC brands.",
-      "version": "1.4.0"
+      "description": "14 Claude skills for eCommerce founders. Buyer psychology, pricing strategy, product launches, marketing analytics, competitor intelligence, brand guide, email, copywriting, paid ads, CFO, VC, popups, PDP, social content — built for DTC brands.",
+      "version": "1.5.0"
     }
   ]
 }

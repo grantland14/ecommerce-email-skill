@@ -32,5 +32,3 @@ Instead of prompting Claude from scratch every time, this skill gives Claude dee
 DTC founders, email marketers, and eCommerce agencies who want Claude to give strategic, platform-aware email advice without having to re-explain the basics every session.
 
 ---
-
-Built by [Ashley Read](https://github.com/ashleyread)

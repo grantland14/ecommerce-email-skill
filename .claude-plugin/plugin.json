@@ -1,9 +1,9 @@
 {
   "name": "ecommerce-skills",
-  "description": "Claude skills for eCommerce founders. Brand guide, email marketing, copywriting, paid ads — built for DTC brands.",
-  "version": "1.3.0",
+  "description": "Claude skills for eCommerce founders. Brand guide, email marketing, copywriting, paid ads, CFO finance, VC evaluation, popups, PDP optimization, social content — built for DTC brands.",
+  "version": "1.4.0",
   "author": {
     "name": "Ashley Read"
   },
-  "keywords": ["ecommerce", "DTC", "email", "copywriting", "klaviyo", "conversion", "product-pages", "paid-ads", "Meta", "Google-Shopping", "TikTok", "ROAS", "brand-guide", "personas", "positioning"]
+  "keywords": ["ecommerce", "DTC", "email", "copywriting", "klaviyo", "conversion", "product-pages", "paid-ads", "Meta", "Google-Shopping", "TikTok", "ROAS", "brand-guide", "personas", "positioning", "cfo", "finance", "unit-economics", "vc", "fundraising", "valuation", "popup", "exit-intent", "pdp", "product-detail-page", "social-content", "instagram", "tiktok-content"]
 }

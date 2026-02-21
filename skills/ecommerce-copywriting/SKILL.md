@@ -457,11 +457,3 @@ If you need more context:
 
 ---
 
-## Related Skills
-
-- **ecommerce-email**: For email flows and campaigns that drive eCommerce revenue
-- **copy-editing**: For polishing existing copy after your draft
-- **page-cro**: If the page structure and conversion strategy needs work beyond copy
-- **popup-cro**: For popup and modal copy
-- **ab-test-setup**: To test copy variations properly
-- **marketing-psychology**: For deeper persuasion principles and behavioral frameworks

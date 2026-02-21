@@ -1,6 +1,6 @@
 ---
 name: ecommerce-email
-The complete eCommerce email playbook, built as a Claude skill. Drop it into Claude and get an expert email strategist that knows DTC brands, Klaviyo, and revenue-focused email programs.
+description: The complete eCommerce email playbook, built as a Claude skill. Drop it into Claude and get an expert email strategist that knows DTC brands, Klaviyo, and revenue-focused email programs.
 ---
 
 # eCommerce Email Marketing

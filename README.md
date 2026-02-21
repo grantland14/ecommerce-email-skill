@@ -2,8 +2,6 @@
 
 A collection of 14 AI agent skills built for eCommerce founders and DTC operators. Give Claude deep expertise in email marketing, paid ads, pricing, product launches, buyer psychology, financial analysis, and more — so every conversation starts with expert-level context instead of a blank slate.
 
-Built by **Ashley Read**.
-
 Contributions welcome! Found a way to improve a skill or have a new one to add? [Open a PR](https://github.com/grantland14/Claude-Skills-for-eCommerce/pulls).
 
 ## What are Skills?

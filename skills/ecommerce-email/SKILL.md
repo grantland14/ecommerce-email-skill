@@ -1,6 +1,6 @@
 ---
 name: ecommerce-email
-description: When the user wants to create, optimize, or audit eCommerce email flows and campaigns for DTC brands. Also use when the user mentions "ecommerce email," "Klaviyo," "abandoned cart," "post-purchase email," "email flows," "DTC email," "welcome series ecommerce," "email revenue," "browse abandonment," "winback flow," "back in stock," "email marketing ecommerce," "Omnisend," or "email program audit." For email deliverability/infrastructure (SPF, DKIM, DMARC), see email-systems. For general email sequences (SaaS/B2B), see email-sequence.
+The complete eCommerce email playbook, built as a Claude skill. Drop it into Claude and get an expert email strategist that knows DTC brands, Klaviyo, and revenue-focused email programs.
 ---
 
 # eCommerce Email Marketing

@@ -20,7 +20,8 @@ Copy the skill folder into your Claude Code skills directory:
 
 ```bash
 git clone https://github.com/grantland14/Claude-Skills-for-eCommerce.git
-cp -r Claude-Skills-for-eCommerce/skills/ecommerce-paid-ads ~/.claude/skills/
+mkdir -p ~/.claude/skills
+cp -rn Claude-Skills-for-eCommerce/skills/ecommerce-paid-ads ~/.claude/skills/
 ```
 
 Start a new Claude Code conversation — Claude will automatically use this skill when relevant.

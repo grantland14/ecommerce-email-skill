@@ -73,7 +73,8 @@ Here's what these skills solve:
 
 ```bash
 git clone https://github.com/grantland14/Claude-Skills-for-eCommerce.git
-cp -r Claude-Skills-for-eCommerce/skills/* ~/.claude/skills/
+mkdir -p ~/.claude/skills
+cp -rn Claude-Skills-for-eCommerce/skills/ecommerce-* ~/.claude/skills/
 ```
 
 This copies all 14 skills into your Claude Code skills directory. Claude will automatically detect and use them in relevant conversations.
@@ -84,8 +85,9 @@ If you only need specific skills:
 
 ```bash
 git clone https://github.com/grantland14/Claude-Skills-for-eCommerce.git
-cp -r Claude-Skills-for-eCommerce/skills/ecommerce-email ~/.claude/skills/
-cp -r Claude-Skills-for-eCommerce/skills/ecommerce-brand-guide ~/.claude/skills/
+mkdir -p ~/.claude/skills
+cp -rn Claude-Skills-for-eCommerce/skills/ecommerce-email ~/.claude/skills/
+cp -rn Claude-Skills-for-eCommerce/skills/ecommerce-brand-guide ~/.claude/skills/
 ```
 
 Replace the skill folder names with whichever ones you want.

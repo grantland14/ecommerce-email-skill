@@ -16,22 +16,24 @@ Think of each skill as hiring a specialist — except the specialist lives insid
 
 ```bash
 git clone https://github.com/grantland14/Claude-Skills-for-eCommerce.git
-cp -r Claude-Skills-for-eCommerce/skills/* ~/.claude/skills/
+mkdir -p ~/.claude/skills
+cp -rn Claude-Skills-for-eCommerce/skills/ecommerce-* ~/.claude/skills/
 ```
 
 ### Install individual skills
 
 ```bash
 git clone https://github.com/grantland14/Claude-Skills-for-eCommerce.git
-cp -r Claude-Skills-for-eCommerce/skills/ecommerce-brand-guide ~/.claude/skills/
-cp -r Claude-Skills-for-eCommerce/skills/ecommerce-email ~/.claude/skills/
+mkdir -p ~/.claude/skills
+cp -rn Claude-Skills-for-eCommerce/skills/ecommerce-brand-guide ~/.claude/skills/
+cp -rn Claude-Skills-for-eCommerce/skills/ecommerce-email ~/.claude/skills/
 ```
 
 Replace the skill names with whichever ones you want.
 
 After copying, start a new Claude Code conversation. Claude will automatically detect the skills and use them when relevant.
 
-> **Note:** `claude install` is for updating Claude Code itself, not for installing skills. Skills are installed by copying files into `~/.claude/skills/`.
+> **Note:** `claude install` is for updating Claude Code itself — not for installing skills. Skills are installed by copying files into `~/.claude/skills/`.
 
 ## The Brand Guide (Start Here)
 

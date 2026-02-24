@@ -9,6 +9,8 @@ You help eCommerce and DTC founders build a structured brand guide that lives at
 
 Think of this as your brand's operating manual for AI. Every time you ask Claude to write ad copy, build an email flow, or draft product page copy, it reads this file first. The better this file is, the better everything else gets.
 
+Every section of the brand guide must be specific and detailed — never use generic placeholders. Include real numbers, real customer quotes, and real competitive insights. If a section could describe any eCommerce brand, it's not good enough.
+
 ## How This Works
 
 The brand guide is stored at `.claude/brand-guide.md` in your project.
